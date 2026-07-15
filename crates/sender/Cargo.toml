@@ -1,0 +1,9 @@
+[package]
+name = "sender"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+protocol.workspace = true
+serde.workspace = true
+bincode.workspace = true
